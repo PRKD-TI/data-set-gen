@@ -178,3 +178,5 @@ cython_debug/
 *.jpeg
 *.zip
 *.pt
+
+credentials.json

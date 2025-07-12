@@ -1,0 +1,22 @@
+# Google API Client Libraries
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Manipulação de arquivos e HTTP
+httplib2
+
+# Utilitários para autenticação
+oauthlib
+requests
+requests-oauthlib
+
+# OpenCV para leitura/salvamento de imagens
+opencv-python
+
+# NumPy para criação e manipulação de imagens
+numpy
+
+# (opcional) tqdm para barra de progresso
+tqdm
